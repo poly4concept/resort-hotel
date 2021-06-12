@@ -23,7 +23,7 @@ export class Services extends Component {
             {
                 icon: <FaBeer/>,
                 title: "Strongest Beer",
-                info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias, quidem."
+                info: "Lorem ipsum, dol sit amet consectetur adipisicing elit. Alias, quidem."
             }
         ]
     }
