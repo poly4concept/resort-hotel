@@ -77,8 +77,6 @@ const RoomContext = createContext();
     filterRooms = () => {
        let{
         rooms,
-        minPrice,
-        maxPrice,
         minSize,
         maxSize,
         price,
