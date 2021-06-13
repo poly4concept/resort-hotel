@@ -36,7 +36,7 @@ export default class SingleRoom extends Component {
                 <section className="single-room">
                     <div className="single-room-images">
                         {supplementImg.map((item, index) => {
-                           return  <img key={index} src={item} alt={name}/>
+                           return  <img loading="lazy" key={index} src={item} alt={name}/>
                         })}
                     </div>
                     <div className="single-room-info">
